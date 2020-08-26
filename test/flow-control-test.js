@@ -80,7 +80,7 @@ describe('flow-control', () => {
 })
 function basicTeenager(Age) {
   if ('Age'<20, && 'Age'>12) {
-    return true
+    return "You are a teenager!"
   }
   return false
 }
