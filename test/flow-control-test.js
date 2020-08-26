@@ -83,6 +83,5 @@ describe('flow-control', () => {
 
 
 function basicTeenager(age) {
-  if (age<20 && age>12)} {
+  if (age<20 && age>12)}
     return true
-  }
