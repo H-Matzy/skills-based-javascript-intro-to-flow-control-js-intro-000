@@ -103,3 +103,8 @@ function ageChecker(age) {
   }
   return "You are a grownup"
 }
+// else if (age>105) {return "You should be dead"}
+
+function ternaryTeenager(age) {
+  (age<20 && >12) ? "You are a teenager!" : "You are not a teenager"
+}
