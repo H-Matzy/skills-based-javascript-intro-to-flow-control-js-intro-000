@@ -82,7 +82,7 @@ describe('flow-control', () => {
 
 
 
-function basicTeenager(age) {
+function basicTeenager() {
   if (basicTeenager<20 && basicTeenager>12) {
     print("You are a teenager!")
   }
