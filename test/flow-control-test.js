@@ -78,7 +78,8 @@ describe('flow-control', () => {
     })
   })
 })
-function basicTeenager(${'Age'}) {
+var("Age") = (${'Age'})
+function basicTeenager("Age") {
   if ("Age"<20 && 'Age'>12) {
     print("You are a teenager!")
   }
